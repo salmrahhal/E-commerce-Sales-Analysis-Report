@@ -70,4 +70,4 @@ It is designed to help business stakeholders and management teams understand:
 ## Dataset Link: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 ## 🖼️ Dashboard Preview
 
-![E-commerce Dashboard](images/dashboard.png)
+![E-commerce Dashboard](image.png)
