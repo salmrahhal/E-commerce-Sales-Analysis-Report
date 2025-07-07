@@ -28,7 +28,7 @@ It is designed to help business stakeholders and management teams understand:
 - Created calculated columns:
   - `Total Sales = Quantity * Price`
   - `Average Order Value = Total Sales / Number of Orders`
-  - 
+    
 ## Analysis Objectives
 
 - **Sales Performance**
